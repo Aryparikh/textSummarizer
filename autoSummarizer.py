@@ -1,7 +1,6 @@
-""" Author - Aryamaan Parikh"""
-""" 
+""" Author - Aryamaan Parikh
 Python 2.7 
-Take topic as input.
+
 
 
 """
@@ -48,9 +47,3 @@ if __name__ == "__main__":
 
     cleanExtractedText = dataCleaner(extractedText)
     summarized_text = particularRangeSearch(cleanExtractedText,pgnoStart,pgnoEnd)
-
-
-
-
-#DO YOU WANT TO OFFER INDEX SEARCH ? ALONG WITH SUMMARY OF SECTION(S) ?? COOL
-##So, Get keyword(s) from user, find section, and auto summarize *those pages*.
