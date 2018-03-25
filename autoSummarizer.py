@@ -1,8 +1,5 @@
 """ Author - Aryamaan Parikh
 Python 2.7 
-
-
-
 """
 
 
